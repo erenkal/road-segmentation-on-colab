@@ -17,4 +17,3 @@ More info [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.ph
 
 
 
-Based on deprecated https://github.com/ndrplz/self-driving-car repository.
