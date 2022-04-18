@@ -17,3 +17,6 @@ More info [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.ph
 
 
 
+
+
+Most of the functions are implemented from Udacity's Self Driving Car Course and solutions so they are outdated but working.
